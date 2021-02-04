@@ -1,3 +1,6 @@
+![Ecologi (Carbon Offset)](https://img.shields.io/ecologi/carbon/nicolas)
+![Ecologi (Trees)](https://img.shields.io/ecologi/trees/nicolas)
+
 ### Hi there 👋
 
 <!--
