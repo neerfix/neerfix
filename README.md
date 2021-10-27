@@ -1,5 +1,8 @@
 [![Ecologi (Carbon Offset)](https://img.shields.io/ecologi/carbon/nicolas)](https://ecologi.com/nicolas?r=601c4c73fc8815001c54b6e1)
 [![Ecologi (Trees)](https://img.shields.io/ecologi/trees/nicolas)](https://ecologi.com/nicolas?r=601c4c73fc8815001c54b6e1)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJedo_TNeqP5O0ITNKRsg8g?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Neerfix?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Neerfix?style=social)
 
 ### Hi there 👋
 
