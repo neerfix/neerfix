@@ -18,4 +18,5 @@
 **Others** : ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) ![jira](https://img.shields.io/badge/Jira-%23026AA7.svg?style=flat-square&logo=Jira&logoColor=white&color=0047B2)
 
 ## 📊 Stats
+![](https://github-readme-stats.vercel.app/api?username=neerfix&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neerfix&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
