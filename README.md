@@ -17,14 +17,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white)
 
 **Front :**
-![Vue.js](https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SaSS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
 
 **Back :**
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat-square&logo=symfony&logoColor=white)
@@ -37,7 +34,6 @@
 **Infra :**
 ![OVH](https://img.shields.io/badge/ovh-%23430098.svg?style=flat-square&logo=ovh&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-036d02?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
