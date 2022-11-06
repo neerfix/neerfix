@@ -48,8 +48,6 @@
 ![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=flat-square&logo=Sentry&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=flat-square&logo=Socket.io&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=flat-square&logo=WordPress&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=flat-square&logo=Twitch&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)
 ![Minecraft Server](https://img.shields.io/badge/Minecraft&nbsp;Server-62B47A.svg?style=flat-square&logo=minecraft&logoColor=white)
 
 ## 📊 Stats
