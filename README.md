@@ -1,8 +1,8 @@
 <a href="https://app.daily.dev/Neerfix"><img align="right" src="https://api.daily.dev/devcards/19e226a750b24780a2900101793b0c56.png?r=ea3" width="200" alt="Nicolas Notararigo's Dev Card"/></a>
 ![Ecologi (Carbon Offset)](https://img.shields.io/ecologi/carbon/nicolas)
 [![Ecologi (Trees)](https://img.shields.io/ecologi/trees/nicolas)](https://ecologi.com/nicolas?r=601c4c73fc8815001c54b6e1)
-![](https://komarev.com/ghpvc/?username=neerfix&label=%20Profile%20Views&color=blue&flat)
-[![Profile last updated](https://img.shields.io/github/last-commit/Neerfix/Neerfix/main?label=Last%20updated&flat)](https://github.com/neerfix/neerfix/commits)
+![](https://komarev.com/ghpvc/?username=nick-notararigo&label=%20Profile%20Views&color=blue&flat)
+[![Profile last updated](https://img.shields.io/github/last-commit/nick-notararigo/nick-notararigo/main?label=Last%20updated&flat)](https://github.com/nick-notararigo/nick-notararigo/commits)
 
 ## 😸 Hello, i'm Nicolas Notararigo
 
@@ -51,8 +51,8 @@
 ![Minecraft Server](https://img.shields.io/badge/Minecraft&nbsp;Server-62B47A.svg?style=flat-square&logo=minecraft&logoColor=white)
 
 ## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=neerfix&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neerfix&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=nick-notararigo&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nick-notararigo&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <span align="center">
-![](https://github-profile-trophy.vercel.app/?username=neerfix&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nick-notararigo&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 </span>
