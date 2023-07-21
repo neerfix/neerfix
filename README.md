@@ -54,5 +54,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=nick-notararigo&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nick-notararigo&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <span align="center">
-![](https://github-profile-trophy.vercel.app/?username=nick-notararigo&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-</span>
