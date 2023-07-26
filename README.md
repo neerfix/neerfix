@@ -20,8 +20,8 @@
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SaSS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![NuxtJs](https://img.shields.io/badge/NuxtJs-000000.svg?style=flat-square&logo=nuxtdotjs&logoColor=#000000)
+![Redux](https://img.shields.io/badge/VueJs-4FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
 
 **Back :**
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=flat-square&logo=symfony&logoColor=white)
