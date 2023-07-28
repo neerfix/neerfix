@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/Neerfix"><img align="right" src="https://api.daily.dev/devcards/19e226a750b24780a2900101793b0c56.png?r=ea3" width="200" alt="Nicolas Notararigo's Dev Card"/></a>
 ![Ecologi (Carbon Offset)](https://img.shields.io/ecologi/carbon/nicolas)
 [![Ecologi (Trees)](https://img.shields.io/ecologi/trees/nicolas)](https://ecologi.com/nicolas?r=601c4c73fc8815001c54b6e1)
 ![](https://komarev.com/ghpvc/?username=nick-notararigo&label=%20Profile%20Views&color=blue&flat)
