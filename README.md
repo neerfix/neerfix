@@ -50,6 +50,5 @@
 ![Minecraft Server](https://img.shields.io/badge/Minecraft&nbsp;Server-62B47A.svg?style=flat-square&logo=minecraft&logoColor=white)
 
 ## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=nick-notararigo&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nick-notararigo&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <span align="center">
