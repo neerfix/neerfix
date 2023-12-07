@@ -5,8 +5,8 @@
 
 ## 😸 Hello, i'm Nicolas Notararigo
 
-
-## 💻 Tech Stack
+<details>
+  <summary>💻 Tech Stack  </summary>
 
 **Basic :**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -48,6 +48,6 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=flat-square&logo=Socket.io&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=flat-square&logo=WordPress&logoColor=white)
 ![Minecraft Server](https://img.shields.io/badge/Minecraft&nbsp;Server-62B47A.svg?style=flat-square&logo=minecraft&logoColor=white)
+</details>
 
-## 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=nick%20-notararigo&theme=tokyonight-duo)](https://git.io/streak-stats)
