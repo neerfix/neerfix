@@ -49,5 +49,3 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=flat-square&logo=WordPress&logoColor=white)
 ![Minecraft Server](https://img.shields.io/badge/Minecraft&nbsp;Server-62B47A.svg?style=flat-square&logo=minecraft&logoColor=white)
 </details>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nick%20-notararigo&theme=tokyonight-duo)](https://git.io/streak-stats)
