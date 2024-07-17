@@ -3,7 +3,7 @@
 
 ## 😸 Hello, i'm Nicolas Notararigo. FullStack developper since 4 years.
 
-<de
+<details>
   <summary>💻 Tech Stack  </summary>
 
 **Basic :**
