@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=nick-notararigo&label=%20Profile%20Views&color=blue&flat)
 [![Profile last updated](https://img.shields.io/github/last-commit/nick-notararigo/nick-notararigo/main?label=Last%20updated&flat)](https://github.com/nick-notararigo/nick-notararigo/commits)
 
-## 😸 Hello, i'm Nicolas Notararigo. FullStack developper since 4 years.
+## 😸 Hello, i'm Neerfix. FullStack developper since 4 years.
 
 <details>
   <summary>💻 Tech Stack  </summary>
