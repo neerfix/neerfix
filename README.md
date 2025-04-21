@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=nick-notararigo&label=%20Profile%20Views&color=blue&flat)
 [![Profile last updated](https://img.shields.io/github/last-commit/nick-notararigo/nick-notararigo/main?label=Last%20updated&flat)](https://github.com/nick-notararigo/nick-notararigo/commits)
-[![My Gitlab Profile](https://img.shields.io/badge/My&nbsp;Gitlab&nbsp;Profile-FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/neerfix/)
 
 ## 😸 Hello, i'm Nicolas Notararigo. FullStack developper since 4 years.
 
